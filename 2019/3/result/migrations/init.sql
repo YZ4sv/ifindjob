@@ -1,0 +1,5 @@
+CREATE TABLE `links`
+(
+	`uid` VARCHAR (255) NOT NULL PRIMARY KEY,
+	`link` VARCHAR(4096) NOT NULL
+);
