@@ -1,0 +1,1 @@
+INSERT INTO `favorites` SET user_id = 1, post_id = 1, created_at = UNIX_TIMESTAMP()
